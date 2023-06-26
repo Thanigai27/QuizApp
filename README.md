@@ -1,1 +1,1 @@
-# QuizApp
+This project is about how to design a  quiz app .This quiz app contain ten question and each one contains score.We can't able to skip questions.There is also another option to restart the test .I have used two javascript file one javascript file  for questions with answers and another for making the app responsive.
